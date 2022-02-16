@@ -4,7 +4,7 @@
 
 this is the the github extension of [**instal**](https://github.com/abdfnx/instal), for more details refer to [**instal**](https://github.com/abdfnx/instal) repo
 
-![preview](https://user-images.githubusercontent.com/64256993/154235804-d29d7b10-c7d2-4732-8c06-63ee994865eb.gif)
+![preview](https://user-images.githubusercontent.com/64256993/154241761-b8b74a9f-4f0b-4ca5-8549-b7e18ac91586.gif)
 
 ## Installation
 
